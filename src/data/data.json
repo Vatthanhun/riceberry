@@ -1,0 +1,117 @@
+{
+  "Header": {
+    "title": "ข้าวไรซ์เบอรรี่",
+    "paragraph": "อุดมไปด้วยคุณค่าทางอาหารสูง โดยคุณประโยชน์ที่เด่นชัดที่สุดจะพบได้ในน้ำมันรำข้าว และรำข้าว มีคุณสมบัติต่อต้านอนุมูลอิสระได้ดี อุดมไปด้วยโฟเลจในปริมาณสูง นอกจากนั้นยังอุดมไปด้วยสารอาหารอื่นๆ ที่มีประโยชน์ต่อร่างกายมากมายหลายชนิด ได้แก่ เบต้าแคโรทีน, แกมมาโอไรซานอล, วิตามินอี, วิตามินบี 1, ลูทีน, แทนนิน, สังกะสี, โอเมก้า 3, ธาตุเหล็ก, โพลีฟีนอล และเส้นใย เป็นต้น ซึ่งสารอาหารเหล่านี้มีส่วนช่วยในการ บำรุงร่างกาย บำรุงสายตา บำรุงระบบประสาท ลดความเสี่ยงต่อการเกิดมะเร็ง ช่วยป้องกันโรคต่างๆ ได้อย่างมากมาย อาทิ โรคเบาหวาน โรคมะเร็ง โรคหลอดเหลือด โรคหัวใจ โรคความดันโลหิตสูง โรคสมองเสื่อม และโรคโลหิตจาง มีส่วนช่วยในการสร้างคอลลาเจน ช่วยชะลอความแก่ ลดระดับไขมัน และคอเรสเตอรอลได้ ที่มา ศูนย์ข้อมูลข้าวตลาดเฉพาะ. (2564). [ออนไลน์]. เข้าถึงได้จาก : https://www.thairicedb.com/rice-detail.php?id=15. (วันที่ค้นข้อมูล : 12 ส.ค. 2564)."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "income": [
+    {
+      "icon": "fa fa-fighter-jet",
+      "name": "Plan A",
+      "img": "img/testimonials/planA.jpg"
+    },
+    {
+      "icon": "fa fa-space-shuttle",
+      "name": "Plan B",
+      "img": "img/testimonials/planB.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "27 ถ.เนตรดี ต.แสนสุข อ.เมือง จ.ชลบุรี 20130 ",
+    "phone": "063-5162896, 0959040195",
+    "email": "vatthanhun@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-home",
+      "title": "ประวัติพันธุ์",
+      "text": "ข้าวไรซ์เบอรี่ (ภาษาอังกฤษ: Rice Berry) เป็นผลงานการปรับปรุงสายพันธุ์ของ รศ.ดร.อภิชาติ และทีมนักวิจัยจาก ศูนย์วิจัยพันธุ์ข้าว มหาวิทยาลัยเกษตรศาสตร์ และความร่วมมือจากคณะกรรมการวิจัยแห่งชาติ (วช.) โดยเป็นการผสมข้ามสายพันธุ์ ระหว่าง ข้าวเจ้าหอมนิล ซึ่งเป็นสายพันธุ์พ่อ + ข้าวขาวดอกมะลิ 105 ซึ่งเป็นสายพันธุ์แม่ ทำให้ได้ลักษณะที่ดีและคุณประโยชน์เด่นๆ ออกมา ซึ่งพันธุ์ข้าวนี้ได้รับการจดทะเบียนเป็นพันธุ์พืชใหม่ ห้ามมีการนำไปขยายพันธุ์ในเชิงการค้าต่อโดยไม่ได้รับอนุญาตจาก วช. และมหาวิทยาลัยเกษตรศาสตร์ ที่มา ศูนย์ข้อมูลข้าวตลาดเฉพาะ. (2564). [ออนไลน์]. เข้าถึงได้จาก : https://www.thairicedb.com/rice-detail.php?id=15."
+    },
+    {
+      "icon": "fa fa-binoculars",
+      "title": "ลักษณะประจำพันธุ์",
+      "text": "ข้าวไรซ์เบอรี่มีลักษณะเรียวยาว ผิวมันวาว เป็นข้าวจ้าวสีม่วงเข้มคล้ายกับลูกเบอร์รี่ที่มีสีม่วงเข้มเมื่อสุก หากเป็นข้าวกล้องจะมีกลิ่นหอมที่เป็นเอกลักษณ์เฉพาะตัว อีกทั้งยังมีรสชาติหอมมัน เนื้อสัมผัสเหนียวนุ่ม เนื่องจากผ่านการขัดสีเพียงแค่บางส่วนเท่านั้น จึงยังทำให้คงคุณค่าทางโภชนาการไว้ได้อย่างครบถ้วน ข้าวสายพันธุ์พิเศษสีม่วงนี้สามารถปลูกได้ตลอดทั้งปี มีอายุเก็บเกี่ยว 130 วัน ให้ผลผลิตปานกลาง มีความสามารถต้านทานต่อโรคไหม้ แต่ไม่ต้านทานโรคหลาว จึงแนะนำให้เปลี่ยนเมล็ดพันธุ์ทุกรอบของการปลูก ที่มา ศูนย์ข้อมูลข้าวตลาดเฉพาะ. (2564). [ออนไลน์]. เข้าถึงได้จาก : https://www.thairicedb.com/rice-detail.php?id=15."
+    },
+    {
+      "icon": "fa fa-heart-o",
+      "title": "คุณค่าทางโภชนาการในข้าวกล้องไรซ์เบอร์รี่",
+      "text": "คุณค่าทางโภชนาการ ในรำข้าวไรซ์เบอร์รี่มีแอนโทไซยานิน(Anthocyanin) ในระดับความเข้มข้น 15.7 มก./100กรัม รำข้าวไรซ์เบอร์รี่ มีค่า ORAC ถึง 400 Trolox eq./g งานวิจัยล่าสุดพบว่าในรำข้าวไรซ์เบอร์รี่ มีสารออกฤทธิ์ต้านเซลล์มะเร็ง Lupeol และสารอื่นๆ ที่กำลังอยู่ในระหว่างการสกัด นับเป็นครั้งแรกที่มีรายงานการค้นพบ Lupeol ในข้าว ในส่วนของน้ำมันรำข้าวบีบเย็น เมื่อเทียบกับน้ำมันงาแบบหีบเย็น มี beta-carotene อยู่ถึง 23 µg/g และ lutein 14-15µg/g (ไม่มีในน้ำมันงา) พร้อมทั้ง gamma-oryzanol 135 µg/g โดยมีค่า ORAC อยู่ที่ 215 µmol Trolox/g จากการทดสอบคุณสมบัติของสารสกัดจากรำข้าวไรซ์เบอร์รี่ ในการต่อต้านเซลล์มะเร็ง 3 ชนิด คือเซลล์มะเร็งลำไส้ใหญ่ (Caco-2) เซลล์มะเร็งเต้านม (MCF-7) และเซลล์มะเร็งเม็ดเลือดขาว (HL-60) พบว่า สารสกัด ทั้งชนิดไม่สกัดน้ำมันออก (DCM fraction) และชนิดที่สกัดน้ำมันออกไปบ้าง (MeOH fraction) ให้ผลยับยั้งเซลล์มะเร็งทั้ง 3 ชนิดได้อย่างมีนัยสำคัญ โดยเฉพาะสารสกัดจาก DCM fraction ให้ผลที่ดีกว่าสารสกัดจาก MeOH fraction และเซลล์มะเร็งในเม็ดเลือดขาว มีความไวต่อการถูกชักนำให้เกิดการตาย ภายหลังการได้รับสารสกัดได้เร็วที่สุด ข้อมูลดังกล่าวแสดงให้เห็นว่า รำข้าวไรซ์เบอร์รี่เป็นแหล่งของสารออกฤทธิ์ต้านมะเร็ง ที่มา : https://dna.kps.ku.ac.th/index.php/articles-ricersc-rgdu-knowledge/29-2015-03-27-02-0415/53-riceberry"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "ข้าวไรซ์เบอร์รี่เหมาะกับใคร?",
+      "text": "ข้าวไรซ์เบอรี่ เหมาะกับคนทุกเพศทุกวัย โดยเฉพาะคนรักสุขภาพ เพราะถือได้ว่าเป็นข้าวที่มีสารอาหารและคุณประโยชน์สูง โดยจำแนกออกเป็นกลุ่มต่างๆ ได้ดังนี้ ผู้สูงวัย ควรได้รับประทานอาหารที่ดีและมีประโยชน์ ซึ่ง ข้าวไรซ์เบอรี่ มีสารอาหารที่ช่วยบำรุงร่างกาย เสริมสร้างประสิทธิภาพในการไหลเวียนของเลือด ชะลอความแก่ บำรุงสายตาและระบบประสาท ผู้ป่วยโรคเบาหวานและโรคอ้วน ที่สามารถเปลี่ยนมารับประทานข้าวไรซ์เบอรี่ที่มีคุณสมบัติช่วยควบคุมน้ำตาลและน้ำหนักได้ เนื่องจากในข้าวสายพันธุ์นี้มีดัชนีน้ำตาลที่ต่ำกว่าข้าวทั่วไป สตรีมีครรภ์ ข้าวสายพันธุ์นี้จะช่วยให้บุตรในครรภ์มีสุขภาพแข็งแรง สามารถป้องกันโรคปากแหว่งเพดานโหว่ได้ เพราะในข้าวไรซ์เบอรี่มีสารโฟเลต อีกทั้งยังมีน้ำตาลต่ำ ช่วยให้มารดาควบคุมน้ำหนักไม่ให้ครรภ์เป็นพิษ นอกจากนี้ยังมีธาตุเหล็กสูงซึ่งในหญิงมีครรภ์จะมีความต้องการแร่ธาตุชนิดนี้มากกว่าคนปกติ ผู้ที่เป็นโรคโลหิตจางจากการขาดธาตุเหล็ก หากรับประทานข้าวไรซ์เบอรี่เป็นประจำ จะช่วยให้ร่างกายได้รับสารอาหาร โดยเฉพาะธาตุเหล็ก ช่วยในการบำรุงโลหิตและบำรุงร่างกายให้แข็งแรง ทีมา : https://www.hongthongrice.com/life/ข้าวเพื่อสุขภาพ/riceberry-01/"
+    }
+  ]
+}
