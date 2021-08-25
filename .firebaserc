@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "riceberry-a905b"
+  },
+  "targets": {
+    "riceberry-a905b": {
+      "hosting": {
+        "riceberry-a905b": [
+          "riceberry-a905b"
+        ]
+      }
+    }
   }
 }
