@@ -261,19 +261,19 @@ header .intro-text {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
-#about {
+#conditions {
   padding: 100px 0;
 }
-#about h3 {
+#conditions h3 {
   font-size: 22px;
   margin: 0 0 20px;
 }
-#about h2 {
+#conditions h2 {
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
-#about h2::after {
+#conditions h2::after {
   position: absolute;
   content: "";
   background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
@@ -282,13 +282,13 @@ header .intro-text {
   bottom: 0;
   left: 0;
 }
-#about .about-text li {
+#conditions .conditions-text li {
   margin-bottom: 6px;
   margin-left: 6px;
   list-style: none;
   padding: 0;
 }
-#about .about-text li:before {
+#conditions .conditions-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
   color: #5ca9fb;
@@ -296,14 +296,14 @@ header .intro-text {
   font-weight: 300;
   padding-right: 8px;
 }
-#about img {
+#conditions img {
   width: 520px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
-#about p {
+#conditions p {
   line-height: 24px;
   margin: 30px 0;
 }
@@ -611,20 +611,25 @@ label {
   width: 100%;
 }
 
-#table td, #table th {
+#table td,
+#table th {
   border: 1px solid #ddd;
   padding: 8px;
-  text-align: center
+  text-align: center;
 }
 
-#table tr:nth-child(even){background-color: #f2f2f2;}
+#table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
-#table tr:hover {background-color: #ddd;}
+#table tr:hover {
+  background-color: #ddd;
+}
 
 #table th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #04AA6D;
+  background-color: #04aa6d;
   color: white;
 }
