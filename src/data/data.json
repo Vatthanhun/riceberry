@@ -22,12 +22,12 @@
     {
       "icon": "fa fa-fighter-jet",
       "name": "Plan A",
-      "img": "img/testimonials/planA.jpg"
+      "img": "img/team/planA.jpg"
     },
     {
       "icon": "fa fa-space-shuttle",
       "name": "Plan B",
-      "img": "img/testimonials/planB.jpg"
+      "img": "img/team/planB.jpg"
     }
   ],
   "Testimonials": [
