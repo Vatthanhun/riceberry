@@ -1,3 +1,5 @@
+import React  from 'react';
+
 export const Conditions = (props) => {
   return (
     <div id="conditions">
