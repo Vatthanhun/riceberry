@@ -21,8 +21,17 @@ export const Income = (props) => {
           <p style={{color:'#A52A2A'}}>
           คุณจะได้รับ 8% ของทุกคนในลำดับชั้นนั้นที่สั่งซื้อและจะได้รับเป็นอัตราส่วนลดลงไป เทียบเป็นตาราง ได้ดังนี้
           </p>
+          <div>
+        <img src="img/plan.jpg" className="img-responsive" alt="" />{" "}
+        <div><br /></div>
         </div>
-        <div className='row'>
+        <h3 style={{color:'#FF0000', fontWeight:800}}>
+          โดย Plan A คือการสั่งซื้อข้าวถุงละ 1 กิโลกรัม จำนวน 1 ถุง ในราคา 100 บาท + ค่าส่ง 50 บาท <br />
+          และ Plan B คือการสั่งซื้อข้าวถุงละ 1 กิโลกรัม จำนวน 5 ถุง ในราคา 500 บาท + ค่าส่ง 100 บาท
+          </h3>
+        </div>
+
+        {/* <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-6'>
@@ -35,7 +44,7 @@ export const Income = (props) => {
                 </div>
               ))
             : 'loading'}
-        </div>
+        </div> */}
       </div>
     </div>
   )
